@@ -108,6 +108,10 @@ footer a {
     color: #1f1534;
 }
 
+footer a:hover {
+    color: #4d04eb;
+}
+
 #balls {
     position: fixed;
     bottom: 0;
